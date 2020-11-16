@@ -32,6 +32,12 @@ var models = [
         info: 'Articuno, Lv. 80, HP 100/100',
     },
     {
+        url: '../assets/spook/scene.gltf',
+        scale: '0.08 0.08 0.08',
+        rotation: '0 180 0',
+        info: 'Spook, Lv. 99, HP 150/150',
+    },    
+    {
         url: '../assets/dragonite/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
